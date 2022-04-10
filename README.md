@@ -14,3 +14,16 @@
 -Toast 메세지 생성
 
 <img width="" height="" src="./pic/4st_PNG.png"></img>
+
+
+# 5주차(2022-04-05)
+- 이미지 생성
+
+
+<img width="" height="" src="./pic/5st_PNG.png"></img>
+
+<img width="" height="" src="./pic/5st1_PNG.png"></img>
+
+<img width="" height="" src="./pic/5st2_PNG.png"></img>
+
+<img width="" height="" src="./pic/5st3_PNG.png"></img>
