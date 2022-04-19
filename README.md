@@ -27,3 +27,15 @@
 <img width="" height="" src="./pic/5st2_PNG.png"></img>
 
 <img width="" height="" src="./pic/5st3_PNG.png"></img>
+
+
+
+
+# 6주차(2022-04-12)
+-width와 height
+
+
+<img width="" height="" src="./pic/7st1_PNG.png"></img>
+
+<img width="" height="" src="./pic/7st2_PNG.png"></img>
+
