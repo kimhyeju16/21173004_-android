@@ -39,3 +39,18 @@
 
 <img width="" height="" src="./pic/7st2_PNG.png"></img>
 
+
+
+
+
+
+
+
+# 10주차(2022-5-4)
+-Main과 Menu
+
+<img width="" height="" src="./pic/10st7_PNG.png"></img>
+
+<img width="" height="" src="./pic/10st7_1PNG.png"></img>
+
+
