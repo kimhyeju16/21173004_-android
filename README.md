@@ -46,11 +46,16 @@
 
 
 
-# 10주차(2022-5-4)
+# 10주차(2022-5-10)
 -Main과 Menu
 
 <img width="" height="" src="./pic/10st7_PNG.png"></img>
 
 <img width="" height="" src="./pic/10st7_1PNG.png"></img>
 
+
+
+# 11주차(2022-5-17)
+
+<img width="" height="" src="./pic/11st_PNG.png"></img>
 
